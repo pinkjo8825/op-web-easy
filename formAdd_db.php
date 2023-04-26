@@ -1,5 +1,4 @@
 <?php
-    echo "Hello, console!";
  //ถ้ามีค่าส่งมาจากฟอร์ม
     if(isset($_POST['name']) && isset($_POST['surname'])){
     //ไฟล์เชื่อมต่อฐานข้อมูล
